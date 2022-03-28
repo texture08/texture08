@@ -1,5 +1,7 @@
-### Hi there 👋
+### I am Syu.
 
+## My SNS
+<a href="https://twitter.com/H2DH8K" target="blank">Twitter</a>
 <!--
 **texture08/texture08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
